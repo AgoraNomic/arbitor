@@ -1,0 +1,60 @@
+Agoran Court Gazette (Arbitor's Weekly Report)
+Sun 22 May 2022
+
+DEADLINES (details below)
+---------------------------
+[none]
+
+
+INTERESTED JUDGES AND THEIR MOST RECENT CASES
+---------------------------
+Regular Judges:
+3959 G.
+3956 secretsnail
+3961 Murphy
+3962 ais523
+3963 Jason
+
+Occasional Judges:
+[None currently]
+
+Overflow Judges:
+3888 nix
+
+Recused:
+
+3956 R. Lee
+3941 Cuddlybanana
+3926 Gaelan
+3924 Madrid
+
+
+OPEN CASES
+---------------------------
+[none]
+
+
+RECENTLY-JUDGED CASES
+---------------------------
+3963 Judged TRUE by Jason [20 May 2022 00:20:03]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-May/049180.html
+
+     Jason is the Arbitor, nix is the Prime Minister, and nix is the
+     Registrar.
+
+     HELD: A list of players and their votes can be a "tally" for
+           the purposes of Rule 208.
+     HELD: The purported election poll resolutions by Murphy on
+           2022-05-16 were EFFECTIVE.
+
+3962 Judged TRUE by ais523 [16 May 2022 18:05:01]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-May/049179.html
+
+     The game of Agora exists AND the game of Agora has rules AND I am a
+     player in the game of Agora AND I have some natural number amount of
+     coins
+
+     HELD: Agora exists under R101.
+     HELD: At least one rule exists (R104).
+     HELD: Madrid is a player.
+     HELD: Madrid has a positive integral number of coins.
