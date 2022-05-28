@@ -1,0 +1,38 @@
+Agoran Court Gazette (Arbitor's Weekly Report)
+Sun 28 May 2022
+
+DEADLINES (details below)
+---------------------------
+3964 assigned to G.                      Due Sat 4 Jun 2022 16:39:19
+
+INTERESTED JUDGES AND THEIR MOST RECENT CASES
+---------------------------
+Regular Judges:
+3956 secretsnail
+3961 Murphy
+3962 ais523
+3963 Jason
+3964 G.
+
+Occasional Judges:
+[None currently]
+
+Overflow Judges:
+3888 nix
+
+Recused:
+
+3956 R. Lee
+3941 Cuddlybanana
+3926 Gaelan
+3924 Madrid
+
+OPEN CASES
+---------------------------
+3964 assigned to G. [Due Sat 4 Jun 2022 16:39:19]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-May/049195.html
+     I won the game by Taking Over The Economy today.
+
+RECENTLY-JUDGED CASES
+---------------------------
+[none]
