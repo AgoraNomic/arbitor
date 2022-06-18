@@ -1,0 +1,50 @@
+Agoran Court Gazette (Arbitor's Weekly Report)
+Sat 18 June 2022
+
+DEADLINES (details below)
+---------------------------
+3965 assigned to G.                      Due Sun 19 Jun 2022 16:37:01
+3968 assigned to Murphy                  Due Sat 25 Jun 2022 17:25:51
+
+INTERESTED JUDGES AND THEIR MOST RECENT CASES
+---------------------------
+Regular Judges:
+3962 ais523
+3963 Jason
+3964 Secretsnail9
+3967 G.
+3968 Murphy
+
+Occasional Judges:
+[None currently]
+
+Overflow Judges:
+3888 nix
+
+Recused:
+
+3956 R. Lee
+3941 Cuddlybanana
+3926 Gaelan
+3924 Madrid
+
+OPEN CASES
+---------------------------
+3965 assigned to G. [Due Sun 19 Jun 2022 16:37:01]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-June/049281.html
+     The entity at one point known as Rule 2658 is a Rule.
+
+3968 assigned to Murphy [Due Sat 25 Jun 2022 17:25:51]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-June/049335.html
+     A player CAN buy bird food.
+
+RECENTLY-JUDGED CASES
+---------------------------
+3966 Judged TRUE by G. [Tue 14 Jun 2022 00:40:05]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-June/049314.html
+     The entity at one point known as Rule 2658 has performed at least one amendment of a Rule.
+
+3967 Judged TRUE by G. [Tue 14 Jun 2022 00:55:46]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-June/049315.html
+     The entity at one point known as Rule 2658 has been amended at once during the time when it
+     is/was a Rule.
