@@ -1,0 +1,68 @@
+Agoran Court Gazette (Arbitor's Weekly Report)
+Sun 26 June 2022
+
+DEADLINES (details below)
+---------------------------
+3970 assigned to Jason                   Due Wed 29 Jun 2022 22:47:14
+3971 assigned to Secretsnail9            Due Wed 29 Jun 2022 22:50:31
+3973 assigned to Murphy                  Due Wed 29 Jun 2022 22:56:56
+3975 assigned to ais523                  Due Sun  3 Jul 2022 03:08:32 [approx.]
+
+INTERESTED JUDGES AND THEIR MOST RECENT CASES
+---------------------------
+Regular Judges:
+3970 Jason
+3971 Secretsnail9
+3973 Murphy
+3975 ais523
+
+Occasional Judges:
+[None currently]
+
+Overflow Judges:
+3888 nix
+
+Recused:
+
+3956 R. Lee
+3941 Cuddlybanana
+3926 Gaelan
+3924 Madrid
+
+OPEN CASES
+---------------------------
+3970 assigned to Jason [Due Wed 29 Jun 2022 22:47:14]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-June/049382.html
+     A proposal with title "Dream of Wandering" was distributed within the last 7 days.
+
+3971 assigned to Secretsnail9 [Due Wed 29 Jun 2022 22:50:31]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-June/049383.html
+     My attempt to intend to perform a tabled action in the above-quoted message succeeded
+
+3973 assigned to Murphy [Due Wed 29 Jun 2022 22:56:56]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-June/049386.html
+     The above-quoted message is an intent to clean a rule.
+
+3975 assigned to ais523 [Due approx. Sun 3 Jul 2022 03:08:32]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-June/049411.html
+     My coin balance is now 6805
+
+RECENTLY-JUDGED CASES
+---------------------------
+3868 Judged TRUE by Murphy [Mon 20 Jun 2022 00:04:00]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-June/049344.html
+     A player CAN buy bird food.
+
+3972 Judged TRUE by nix [Thu 23 Jun 2022 16:46:46]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-June/049396.html
+     At least one person was appointed Speaker in the quoted message.
+
+3974 Judged FALSE by G. [Wed 22 Jun 2022 23:28:34]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-June/049389.html
+     CFJ 3969 does exist, is the entire contents of the message from G. quoted above, was
+     created by Jason, and was assigned to ais523 successfully.
+
+NOTES
+-----
+I attempted to assign a non-existent CFJ the number 3969. There is no CFJ 3869,
+and I will not number a case 3969 in the future in order to avoid confusion.
