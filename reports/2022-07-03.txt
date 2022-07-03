@@ -1,0 +1,52 @@
+Agoran Court Gazette (Arbitor's Weekly Report)
+Sun 3 July 2022
+
+DEADLINES (details below)
+---------------------------
+3971 Motion to reconsider to Secretsnail9      Due Wed 29 Jun 2022 22:50:31
+
+INTERESTED JUDGES AND THEIR MOST RECENT CASES
+---------------------------
+Regular Judges:
+3970 Jason
+3971 Secretsnail9
+3973 Murphy
+3975 ais523
+
+Occasional Judges:
+[None currently]
+
+Overflow Judges:
+3888 nix
+
+Recused:
+
+3956 R. Lee
+3941 Cuddlybanana
+3926 Gaelan
+3924 Madrid
+
+OPEN CASES
+---------------------------
+3971 Motion to reconsider group-filed [Due Thu 7 Jul 2022 04:21:55]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-June/049447.html
+     My attempt to intend to perform a tabled action in the above-quoted message succeeded
+
+RECENTLY-JUDGED CASES
+---------------------------
+3970 Judged FALSE by Jason [Wed 29 Jun 2022 04:13:44]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-June/049436.html
+     A proposal with title "Dream of Wandering" was distributed within the last 7 days.
+
+3973 Judged TRUE by Murphy [Sun 26 Jun 2022 21:49:22]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-June/049416.html
+     The above-quoted message is an intent to clean a rule.
+
+3975 Judged FALSE by ais523 [Fri 1 Jul 2022 23:18:46]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-July/049452.html
+     My coin balance is now 6805
+
+NOTES
+-----
+I attempted to assign a non-existent CFJ the number 3969. There is no CFJ 3869,
+and I will not number a case 3969 in the future in order to avoid confusion.
