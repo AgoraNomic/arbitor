@@ -1,0 +1,48 @@
+Agoran Court Gazette (Arbitor's Weekly Report)
+Sun 10 July 2022
+
+DEADLINES (details below)
+---------------------------
+3971 Motion to reconsider to Secretsnail9      Overdue Thu 7 Jul 2022 04:21:55
+3976 assigned to Jason                         Due Sun 17 Jul 2022 19:08:11 
+3977 assigned to 4st                           Due Sun 17 Jul 2022 19:09:01
+
+INTERESTED JUDGES AND THEIR MOST RECENT CASES
+---------------------------
+Regular Judges:
+3971 Secretsnail9
+3973 Murphy
+3975 ais523
+3976 Jason
+3977 4st
+
+Occasional Judges:
+[None currently]
+
+Overflow Judges:
+3888 nix
+
+Recused:
+
+3956 R. Lee
+3941 Cuddlybanana
+3926 Gaelan
+3924 Madrid
+
+OPEN CASES
+---------------------------
+3971 Motion to reconsider group-filed [Overdue Thu 7 Jul 2022 04:21:55]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-June/049447.html
+     My attempt to intend to perform a tabled action in the above-quoted message succeeded
+
+3976 assigned to Jason [Due Sun 17 Jul 2022 19:08:11]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-July/049521.html
+     G. Earned a Magenta Ribbon in 2022.
+
+3977 assigned to 4st [Due Sun 17 Jul 2022 19:09:01]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-July/049522.html
+     secretsnail intended, without objection, to ratify that e filed a motion to extend CFJ 3971.
+
+RECENTLY-JUDGED CASES
+---------------------------
+[none]
