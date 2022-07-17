@@ -1,0 +1,56 @@
+Agoran Court Gazette (Arbitor's Weekly Report)
+Sun 17 July 2022
+
+DEADLINES (details below)
+---------------------------
+3976 assigned to Jason                         Overdue Sun 17 Jul 2022 19:08:11 
+
+INTERESTED JUDGES AND THEIR MOST RECENT CASES
+---------------------------
+Regular Judges:
+3971 Secretsnail9
+3976 Jason
+3977 4st
+3979 ais523
+3980 Murphy
+
+Occasional Judges:
+[None currently]
+
+Overflow Judges:
+3888 nix
+
+Recused:
+
+3956 R. Lee
+3941 Cuddlybanana
+3926 Gaelan
+3924 Madrid
+
+OPEN CASES
+---------------------------
+3976 assigned to Jason [Overdue Sun 17 Jul 2022 19:08:11]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-July/049521.html
+     G. Earned a Magenta Ribbon in 2022.
+
+RECENTLY-JUDGED CASES
+---------------------------
+3971 Judged TRUE by Secretsnail9 [Sun 10 Jul 2022 22:15:49]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-July/049524.html
+     My attempt to intend to perform a tabled action in the above-quoted message succeeded
+
+3977 Judged FALSE by 4st [Mon 11 Jul 2022 18:36:20]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-July/049534.html
+     secretsnail intended, without objection, to ratify that e filed a motion to extend CFJ 3971.
+
+3978 Judged FALSE by ais523 [Fri 15 Jul 2022 19:51:22]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-July/049554.html
+     Proposals 8724 through 8804 were submitted.
+
+3979 Judged TRUE by ais523 [Fri 15 Jul 2022 21:57:15]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-July/049560.html
+     Proposals 8806 through 8810 were submitted.
+
+3980 Judged FALSE by Murphy [Suin 17 Jul 2022 20:41:40]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-July/049568.html
+     A proposal with title "Removal of vote points v2" was distributed within the last week.
