@@ -1,0 +1,38 @@
+Agoran Court Gazette (Arbitor's Weekly Report)
+Fri 22 July 2022
+
+DEADLINES (details below)
+---------------------------
+[none]
+
+INTERESTED JUDGES AND THEIR MOST RECENT CASES
+---------------------------
+Regular Judges:
+3971 Secretsnail9
+3976 Jason
+3977 4st
+3979 ais523
+3980 Murphy
+
+Occasional Judges:
+[None currently]
+
+Overflow Judges:
+3888 nix
+
+Recused:
+
+3956 R. Lee
+3941 Cuddlybanana
+3926 Gaelan
+3924 Madrid
+
+OPEN CASES
+---------------------------
+[none]
+
+RECENTLY-JUDGED CASES
+---------------------------
+3976 Judged FALSE by Jason [Sun 17 Jul 2022 21:19:58]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-July/049569.html
+     G. Earned a Magenta Ribbon in 2022.
