@@ -1,0 +1,45 @@
+Agoran Court Gazette (Arbitor's Weekly Report)
+Sun 31 July 2022
+
+DEADLINES (details below)
+---------------------------
+3982 assigned to G.                             Due Sun 7 Aug 2022 21:12:41
+3983 assigned to ais523                         Due Sun 7 Aug 2022 21:14:01
+
+INTERESTED JUDGES AND THEIR MOST RECENT CASES
+---------------------------
+Regular Judges:
+3971 Secretsnail9
+3976 Jason
+3977 4st
+3980 Murphy
+3982 G.
+3983 ais523
+
+Occasional Judges:
+[None currently]
+
+Overflow Judges:
+3888 nix
+
+Recused:
+3956 R. Lee
+3941 Cuddlybanana
+3926 Gaelan
+3924 Madrid
+
+OPEN CASES
+---------------------------
+3982 assigned to G. [Due Sun 7 Aug 2022 21:12:41]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-July/049633.html
+     the proposal listed above was distributed.
+
+3983 assigned to ais523 [Due Sun 7 Aug 2022 21:14:01]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-July/049634.html
+     Jason added points to a player's score in the above quoted message.
+
+RECENTLY-JUDGED CASES
+---------------------------
+3981 Judged FALSE by G. [Sun 24 Jul 2022 23:57:52]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-July/049607.html
+     I created a proposal in this message.
