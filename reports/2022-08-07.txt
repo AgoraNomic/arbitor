@@ -1,0 +1,40 @@
+Agoran Court Gazette (Arbitor's Weekly Report)
+Sun 7 August 2022
+
+DEADLINES (details below)
+---------------------------
+3982 motion to extend from G.                   Due Sun 7 Aug 2022 21:12:41
+
+INTERESTED JUDGES AND THEIR MOST RECENT CASES
+---------------------------
+Regular Judges:
+3971 Secretsnail9
+3976 Jason
+3977 4st
+3980 Murphy
+3982 G.
+3983 ais523
+
+Occasional Judges:
+[None currently]
+
+Overflow Judges:
+3888 nix
+
+Recused:
+3956 R. Lee
+3941 Cuddlybanana
+3926 Gaelan
+3924 Madrid
+
+OPEN CASES
+---------------------------
+3982 assigned to G. [Motion to extend, due Sun 7 Aug 2022 21:12:41]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-July/049633.html
+     the proposal listed above was distributed.
+
+RECENTLY-JUDGED CASES
+---------------------------
+3983 Judged TRUE by ais523 [Sat 6 Aug 2022 10:47:20]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-August/049657.html
+     Jason added points to a player's score in the above quoted message.
