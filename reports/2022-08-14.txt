@@ -1,0 +1,43 @@
+Agoran Court Gazette (Arbitor's Weekly Report)
+Sun 14 August 2022
+
+DEADLINES (details below)
+---------------------------
+3982 motion to extend from G.                   Due Mon 15 Aug 2022 21:12:41
+3984 assigned to Secretsnail9                   Due Sun 21 Aug 2022 19:33:54
+
+INTERESTED JUDGES AND THEIR MOST RECENT CASES
+---------------------------
+Regular Judges:
+3976 Jason
+3977 4st
+3980 Murphy
+3982 G.
+3983 ais523
+3984 Secretsnail9
+
+Occasional Judges:
+[None currently]
+
+Overflow Judges:
+3888 nix
+
+Recused:
+3956 R. Lee
+3941 Cuddlybanana
+3926 Gaelan
+3924 Madrid
+
+OPEN CASES
+---------------------------
+3982 assigned to G. [Motion to extend, due Mon 15 Aug 2022 21:12:41]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-July/049633.html
+     the proposal listed above was distributed.
+
+3984 assigned to Secretsnail9 [Due Sun 21 Aug 2022 19:33:54]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-August/049708.html
+     G. transferred 1 coin from a contract to Madrid today.
+
+RECENTLY-JUDGED CASES
+---------------------------
+[none]
