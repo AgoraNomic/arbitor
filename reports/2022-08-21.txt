@@ -1,0 +1,64 @@
+Agoran Court Gazette (Arbitor's Weekly Report)
+Sun 21 August 2022
+
+DEADLINES (details below)
+---------------------------
+3986 assigned to Murphy                         Due Tue 23 Aug 2022 16:05:28
+3987 assigned to ais523                         Due Sun 28 Aug 2022 04:22:51
+3988 assigned to ais523                         Due Sun 28 Aug 2022 04:22:51
+3989 assigned to 4st                            Due Sun 29 Aug 2022 04:25:05
+
+INTERESTED JUDGES AND THEIR MOST RECENT CASES
+---------------------------
+Regular Judges:
+3982 G.
+3984 Secretsnail9
+3985 Jason
+3986 Murphy
+3988 ais523
+3989 4st
+
+Occasional Judges:
+[None currently]
+
+Overflow Judges:
+3888 nix
+
+Recused:
+3956 R. Lee
+3941 Cuddlybanana
+3926 Gaelan
+3924 Madrid
+
+OPEN CASES
+---------------------------
+3986 assigned to Murphy [Due Tue 23 Aug 2022 16:05:28]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-August/049785.html
+     The Militia Court created by Madrid is a valid alternative to the current CFJ system.
+
+3987 assigned to ais523 [Due Sun 28 Aug 2022 04:22:51]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-August/049786.html
+     Delivering a CFJ judgement that doesn't accord with the first paragraph of R217 is a rules
+     violation.
+
+3988 assigned to ais523 [Due Sun 28 Aug 2022 04:22:51]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-August/049786.html
+     Delivering a CFJ judgement that is not "appropriate" as defined in R591 is a rules violation.
+
+3989 assigned to 4st [Due Sun 28 Aug 2022 04:25:05]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-August/049787.html
+     the incidents noted above are infractions.
+
+RECENTLY-JUDGED CASES
+---------------------------
+3982 judged FALSE by G. [Mon 15 Aug 2022 19:13:41]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-August/049730.html
+     the proposal listed above was distributed.
+
+3984 judged FALSE by Secretsnail9 [Tue 16 Aug 2022 01:58:32]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-August/049750.html
+     G. transferred 1 coin from a contract to Madrid today.
+
+3985 judged FALSE by Jason [Sun 21 Aug 2022 03:41:09]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-August/049784.html
+     This message caused a Madrid stamp to be created.
