@@ -1,0 +1,50 @@
+Agoran Court Gazette (Arbitor's Weekly Report)
+Sun 4 September 2022
+
+DEADLINES (details below)
+---------------------------
+3990 motion to extend filed by G.               Due Sat 10 Sep 2022 17:40:49
+3991 assigned to Jason                          Due Sun 11 Sep 2022 20:37:55
+
+INTERESTED JUDGES AND THEIR MOST RECENT CASES
+---------------------------
+Regular Judges:
+3984 Secretsnail9
+3986 Murphy
+3988 ais523
+3989 4st
+3990 G.
+3991 Jason
+
+Occasional Judges:
+[None currently]
+
+Overflow Judges:
+[None currently]
+
+Recused:
+3956 R. Lee
+3941 Cuddlybanana
+3926 Gaelan
+3924 Madrid
+
+OPEN CASES
+---------------------------
+3990 motion to extend filed by G. [Due Sat 10 Sep 2022 17:40:49]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-August/049836.html
+     the infraction I committed in the quoted message has been forgiven.
+
+3991 assigned to Jason [Due Sun 11 Sep 2022 20:37:55]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-September/049880.html
+     Pilgore has a mindset of Dream of Victories, and not Dream of Victory.
+
+RECENTLY-JUDGED CASES
+---------------------------
+3987 judged FALSE by ais523 [Thu 25 Aug 2022 22:40:44]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-August/049820.html
+     Delivering a CFJ judgement that doesn't accord with the first paragraph of R217 is a rules
+     violation.
+
+3988 judged FALSE by ais523 [Thu 25 Aug 2022 22:40:44]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-August/049820.html
+     Delivering a CFJ judgement that is not "appropriate" as defined in R591 is a rules violation.
