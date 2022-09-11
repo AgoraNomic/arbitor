@@ -1,0 +1,56 @@
+Agoran Court Gazette (Arbitor's Weekly Report)
+Sun 11 September 2022
+
+DEADLINES (details below)
+---------------------------
+3992 assigned to Secretsnail9                   Due Sun 18 Sep 2022 22:03:08
+3993 assigned to Murphy                         Due Sun 18 Sep 2022 22:04:19
+3994 assigned to ais523                         Due Sun 18 Sep 2022 22:05:04
+
+INTERESTED JUDGES AND THEIR MOST RECENT CASES
+---------------------------
+Regular Judges:
+3990 G.
+3991 Jason
+3992 Secretsnail9
+3993 Murphy
+3994 ais523
+
+Occasional Judges:
+[None currently]
+
+Overflow Judges:
+[None currently]
+
+Recused:
+3956 R. Lee
+3941 Cuddlybanana
+3926 Gaelan
+
+OPEN CASES
+---------------------------
+3992 assigned to Secretsnail9 [Due Sun 18 Sep 2022 22:03:08]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-September/049923.html
+     I have violated regulation "Proposal Style Guide" by not
+     wrapping at 80 characters, even though I could have done so by
+     using the following shortened URL instead: https://v.gd/ju5zov, and
+     since I have not understood the full implications of the action, I have
+     also violated rule "The Administrative State."
+
+3993 assigned to Murphy [Due Sun 18 Sep 2022 22:04:19]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-September/049924.html
+     4st did not submit a Cantus Cygneus.
+
+3994 assigned to ais523 [Due Sun 18 Sep 2022 22:05:04]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-September/049925.html
+     The election cannot be initiated without at least 2 support.
+
+RECENTLY-JUDGED CASES
+---------------------------
+3990 judged FALSE by G. [Sat 10 Sep 2022 17:59:27]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-September/049906.html
+     the infraction I committed in the quoted message has been forgiven.
+
+3991 judged FALSE by Jason [Sat 10 Sep 2022 06:40:34]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-September/049903.html
+     Pilgore has a mindset of Dream of Victories, and not Dream of Victory.
