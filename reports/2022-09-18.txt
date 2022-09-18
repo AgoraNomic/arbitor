@@ -1,0 +1,48 @@
+Agoran Court Gazette (Arbitor's Weekly Report)
+Sun 18 September 2022
+
+DEADLINES (details below)
+---------------------------
+[none]
+
+INTERESTED JUDGES AND THEIR MOST RECENT CASES
+---------------------------
+Regular Judges:
+3990 G.
+3991 Jason
+3992 Secretsnail9
+3993 Murphy
+3994 ais523
+
+Occasional Judges:
+[None currently]
+
+Overflow Judges:
+[None currently]
+
+Recused:
+3956 R. Lee
+3941 Cuddlybanana
+3926 Gaelan
+
+OPEN CASES
+---------------------------
+[none]
+
+RECENTLY-JUDGED CASES
+---------------------------
+3992 judged FALSE by Secretsnail9 [Tue 13 Sep 2022 00:31:53]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-September/049937.html
+     I have violated regulation "Proposal Style Guide" by not
+     wrapping at 80 characters, even though I could have done so by
+     using the following shortened URL instead: https://v.gd/ju5zov, and
+     since I have not understood the full implications of the action, I have
+     also violated rule "The Administrative State."
+
+3993 judged FALSE by Murphy [Sun 11 Sep 2022 22:12:00]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-September/049926.html
+     4st did not submit a Cantus Cygneus.
+
+3994 judged FALE by ais523 [Thu 15 Sep 2022 20:12:22]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-September/049948.html
+     The election cannot be initiated without at least 2 support.
