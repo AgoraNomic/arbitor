@@ -1,0 +1,36 @@
+Agoran Court Gazette (Arbitor's Weekly Report)
+Sun 25 September 2022
+
+DEADLINES (details below)
+---------------------------
+3994 assigned to G.                             Due Sun 2 Aug 2022 01:52:24
+
+INTERESTED JUDGES AND THEIR MOST RECENT CASES
+---------------------------
+Regular Judges:
+3991 Jason
+3992 Secretsnail9
+3993 Murphy
+3994 ais523
+3995 G.
+
+Occasional Judges:
+[None currently]
+
+Overflow Judges:
+[None currently]
+
+Recused:
+3956 R. Lee
+3941 Cuddlybanana
+3926 Gaelan
+
+OPEN CASES
+---------------------------
+3995 assigned to G. [Due 2 Aug 2022 01:52:24]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-September/049975.html
+     Within the past 24 hours, Murphy won the game.
+
+RECENTLY-JUDGED CASES
+---------------------------
+[none]
