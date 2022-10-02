@@ -1,0 +1,47 @@
+Agoran Court Gazette (Arbitor's Weekly Report)
+Sun 2 October 2022
+
+DEADLINES (details below)
+---------------------------
+3996 assigned to Secretsnail9                   Due Sun 9 Oct 2022 22:20:16
+3997 assigned to Secretsnail9                   Due Sun 9 Oct 2022 22:20:16
+
+INTERESTED JUDGES AND THEIR MOST RECENT CASES
+---------------------------
+Regular Judges:
+3991 Jason
+3993 Murphy
+3994 ais523
+3995 G.
+3997 Secretsnail9
+
+Occasional Judges:
+[None currently]
+
+Overflow Judges:
+[None currently]
+
+Recused:
+3956 R. Lee
+3941 Cuddlybanana
+3926 Gaelan
+
+OPEN CASES
+---------------------------
+3996 assigned to Secretsnail9 [Due Sun 9 Oct 2022 22:20:16]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-October/049994.html
+     Jason's wielding of the Power Stone on or about 25 Sep 2022 increased eir voting strength on
+     at least one decision.
+
+3997 assigned to Secretsnail9 [Due Sun 9 Oct 2022 22:20:16]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-October/049994.html
+     Jason's wielding of the Power Stone on or about 25 Sep 2022 increased eir voting strength on
+     the Registrar election in progress at that time.
+
+RECENTLY-JUDGED CASES
+---------------------------
+3995 judged FALSE by G. [Thu 29 Sep 2022 13:22:09]
+     https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-September/049987.html
+     Within the past 24 hours, Murphy won the game.
+
+
